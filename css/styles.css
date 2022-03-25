@@ -13,3 +13,21 @@ p.best {
   color:green;
   font-style: underline;
 } 
+
+.saucey {
+  color: aqua;
+  font-style: oblique;
+} 
+
+.not-saucey {
+  color: red;
+}
+
+.secrets {
+  color: black;
+  font-style: italic;
+}
+
+img.main {
+  float: left;
+}
